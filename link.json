@@ -688,6 +688,12 @@
         "avatar": "https://cdn.blog.saneko.me/Web/Avatar.png",
         "desc": "Do the things that I like.",
         "url": "https://saneko.me"
+      },
+      {
+        "name": "IT老董博客",
+        "avatar": "https://www.itlaodong.com/logo.jpg",
+        "desc": "在繁杂的日常里，写一点自己的东西",
+        "url": "https://www.itlaodong.com/"
       }
     ]
   }
